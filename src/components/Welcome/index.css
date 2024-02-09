@@ -1,0 +1,35 @@
+.app-container {
+  background-color: #1e293b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-size: 30px;
+  font-family: 'roboto';
+  font-weight: bold;
+  color: #f0bb03;
+  text-align: center;
+}
+
+.description {
+  font-size: 20px;
+  font-family: 'roboto';
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+}
+
+.subscribe-button {
+  border: 1px solid #fff;
+  background-color: #fff;
+  font-size: 12px;
+  font-family: 'roboto';
+  height: 40px;
+  width: 80px;
+  color: #1e293b;
+  border-radius: 5px;
+}
